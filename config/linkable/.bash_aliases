@@ -1,0 +1,1 @@
+alias okta-aws-cli-assume-role='pushd $HOME/Projects/oktadeveloper/okta-aws-cli-assume-role ; java -classpath out/oktaawscli.jar:/opt/aws-java-sdk-1.11.35/lib/aws-java-sdk-1.11.35.jar:$HOME/Projects/oktadeveloper/okta-aws-cli-assume-role/lib/okta-sdk.jar com.okta.tools.awscli ; popd'

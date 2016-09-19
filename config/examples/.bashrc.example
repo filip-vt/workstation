@@ -1,0 +1,6 @@
+# TERRAFORM VERSIONS
+#export PATH="/opt/terraform/0.6.16:$PATH"
+export PATH="/opt/terraform/x.x.x:$PATH"
+
+# AWS CREDENTIALS
+export AWS_PROFILE="%PROFILE_NAME%"
