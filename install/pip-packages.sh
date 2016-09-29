@@ -1,3 +1,5 @@
 #!/bin/bash
 
-pip install awscli pychef
+sudo pip install awscli
+sudo pip install pychef
+sudo pip install httpie
