@@ -8,4 +8,5 @@ Get a new workstation configured or a current one up to date. Just wanted a fast
 * sudo apt install git
 
 ## supported
-* Ubuntu 16.04
+* [Ubuntu >= 16.04](ubuntu/)
+* [macos](macos/)
