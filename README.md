@@ -5,7 +5,7 @@ Get a new workstation configured or a current one up to date. Just wanted a fast
 
 ## prerequisites
 * (new) key uploaded to github
-* sudo apt install git
+* install git
 
 ## supported
 * [Ubuntu >= 16.04](ubuntu/)
