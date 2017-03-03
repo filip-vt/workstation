@@ -6,3 +6,4 @@ brew cask install macpass
 brew cask install atom
 brew cask install hipchat
 brew cask install skype
+brew cask install datagrip
