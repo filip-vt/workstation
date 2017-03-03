@@ -7,3 +7,4 @@ brew cask install atom
 brew cask install hipchat
 brew cask install skype
 brew cask install datagrip
+brew cask install vagrant
