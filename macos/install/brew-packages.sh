@@ -7,3 +7,4 @@ brew install htop
 brew install git
 brew install awscli
 brew install jq
+brew install httpie
