@@ -8,3 +8,4 @@ brew install git
 brew install awscli
 brew install jq
 brew install httpie
+brew install ansible
