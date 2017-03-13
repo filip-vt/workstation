@@ -10,3 +10,4 @@ brew cask install datagrip
 brew cask install vagrant
 brew cask install virtualbox
 brew cask install meld
+brew cask install docker
