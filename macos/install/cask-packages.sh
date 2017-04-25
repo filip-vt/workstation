@@ -11,3 +11,4 @@ brew cask install vagrant
 brew cask install virtualbox
 brew cask install meld
 brew cask install docker
+brew cask install pycharm-ce
