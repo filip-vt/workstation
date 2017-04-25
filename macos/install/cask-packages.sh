@@ -12,3 +12,4 @@ brew cask install virtualbox
 brew cask install meld
 brew cask install docker
 brew cask install pycharm-ce
+brew cask install intellij-idea-ce
