@@ -9,3 +9,4 @@ brew install awscli
 brew install jq
 brew install httpie
 brew install gpg
+brew install mtr
